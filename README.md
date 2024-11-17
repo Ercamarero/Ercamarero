@@ -9,7 +9,7 @@ const Ercamarero = {
   code: [Javascript, HTML, CSS, Python, Java, C, C++],
   tools: [React, Maven, Node, STM32, Docker, BeagleBone],
   data_bases: [MongoDB, XML, JSON, MySQL],
-  other_tools: [Linux, Notion, Trello, Markdown],
+  other_tools: [Linux, Notion, Trello, Markdown, ZyscoPacketTracer],
 }
 ```
 ---
