@@ -1,7 +1,7 @@
 <h2>Hi, I'm Adrian Garrido!</h2>
 <p><em> Student of Software Engineering at <href="https://www.um.es">University of Murcia </a></p>
 [![instagram: Er_camarero]](https://www.instagram.com/er_camarero/?hl=es)
-[![GitHub Ercamarero](https://img.shields.io/github/followers/Ercamarero?label=follow&style=social)](https://github.com/Ercamarero)
+[![GitHub Ercamarero](https://img.shields.io/github/followers/ercamarero?label=follow&style=social)](https://github.com/Ercamarero)
 
 ### A Little dive in what i can do...
 ```javascript
