@@ -5,7 +5,7 @@
 
 ### A Little dive in what i can do...
 ```javascript
-const thai = {
+const Ercamarero = {
   code: [Javascript, HTML, CSS, Python, Java, C, C++],
   tools: [React, Maven, Node, STM32, Docker, BeagleBone],
   data_bases: [MongoDB, XML, JSON, MySQL],
