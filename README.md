@@ -6,8 +6,8 @@ Apart from that I also worked with my classmates on a more front-end oriented pr
 ### A Little dive in what i can do...
 ```javascript
 const Ercamarero = {
-  code: [Javascript, HTML, CSS, Python, Java, C, C++],
-  tools: [React, Maven, Node, STM32, Docker, BeagleBone],
+  code: [Javascript, HTML, CSS, Python, Java, C, C++, System Verilog],
+  tools: [React, Maven, Node, STM32, Docker, BeagleBone, CUDA, OpenMP, MPI, Intel_Intrinsics],
   data_bases: [MongoDB, XML, JSON, MySQL],
   other_tools: [Linux, Notion, Trello, Markdown, ZyscoPacketTracer],
 }
