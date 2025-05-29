@@ -1,15 +1,15 @@
 <h2>Hi, I'm Adrian Garrido!</h2>
-<p><em> Student of Software Engineering at <href="https://www.um.es">University of Murcia </a></p>
-<p> I am almost in my last year of my degree, I am specializing in computer engineering, so I mainly work more in low level languages such as C, C++.
-Apart from that I also worked with my classmates on a more front-end oriented project, which is in the repository linked to my account called Spotify-electron. </p>
+<p><em> Software Engineering Student at <a href="https://www.um.es">University of Murcia </a></em></p>
+<p> I'm about to enter my final year of studies, specializing in <strong>Computer Engineering</strong>, with a strong focus on low-level programming (C, C++). Additionally, I collaborated on a front-end project called <strong>Spotify-electron</strong>, available in my GitHub repository.</p>
 
-### A Little dive in what i can do...
+### A Little dive in what Can I do...
 ```javascript
-const Adrián Garrido Beas = {
-  code: [Javascript, HTML, CSS, Python, Java, C, C++, System Verilog, Cuda],
-  tools: [React, Maven, Node, STM32, Docker, BeagleBone, CUDA, OpenMP, MPI, Intel_Intrinsics],
-  data_bases: [MongoDB, XML, JSON, MySQL],
-  other_tools: [Linux, Notion, Trello, Markdown, ZyscoPacketTracer, Google Cloud Run, Github Actions, Gitlab CI/CD],
-}
+const AdriánGarrido = {  
+  languages: ["JavaScript", "HTML/CSS", "Python", "Java", "C", "C++", "SystemVerilog", "CUDA"],  
+  tools: ["React", "Node.js", "Docker", "STM32", "BeagleBone", "OpenMP", "MPI", "Intel Intrinsics"],  
+  databases: ["MongoDB", "MySQL", "SQLite", "JSON/XML"],  
+  platforms: ["Linux", "GitHub Actions", "GitLab CI/CD", "Google Cloud Run"],  
+  misc: ["Notion", "Trello", "Markdown", "Cisco Packet Tracer"]  
+};  
 ```
-```
+
